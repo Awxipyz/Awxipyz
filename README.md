@@ -1,6 +1,5 @@
 ### Hi there 👋
-<!--
-**Awxipyz/Awxipyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Awxipyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I like eating pizza and Sanwich.
 - 🌱 I’m currently learning Pyhton,Java,C.Besides,or should i say,only know a little about MoJo
